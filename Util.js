@@ -1,9 +1,9 @@
 // RGB Colors with JS by Mr. M
 
 // Variables
-let redInEl = getElementById("redIn");
-let greenInEl = getElementById("greenIn");
-let blueInEl = getElementById("blueIn");
+let redInEl = document.getElementById("redIn");
+let greenInEl = document.getElementById("greenIn");
+let blueInEl = document.getElementById("blueIn");
 let rgbStringOutEl = document.getElementById("rgbStrOut");
 let displayEl = document.getElementById("display");
 
